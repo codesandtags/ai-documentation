@@ -54,6 +54,7 @@
 | Tensor Flow Google | https://www.tensorflow.org/ |
 | Torch | http://torch.ch/ |
 | MXNet Amazon | https://aws.amazon.com/mxnet/ |
+| AI Experiments Google | https://aiexperiments.withgoogle.com/autodraw |
 
 
 
