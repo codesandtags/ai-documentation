@@ -51,4 +51,9 @@
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | AlphaGo by Deepmind, Google  | https://deepmind.com/research/alphago/ | 
+| Tensor Flow Google | https://www.tensorflow.org/ |
+| Torch | http://torch.ch/ |
+| MXNet Amazon | https://aws.amazon.com/mxnet/ |
+
+
 
