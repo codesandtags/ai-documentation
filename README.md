@@ -25,6 +25,7 @@
 | ------------- |:-------------:| 
 | Machine Learning Recipes by Google  | https://www.youtube.com/watch?v=cKxRvEZd3Mw | 
 | Machine Learning with Tensor Flow| https://www.youtube.com/watch?v=mWl45NkFBOc&list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv |
+|Deep Learning and Machine Learning Guide: Part I| https://dzone.com/articles/machine-learning-resources |
 
 ## Natural Language Processing
 
