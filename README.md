@@ -27,6 +27,15 @@
 | Machine Learning with Tensor Flow| https://www.youtube.com/watch?v=mWl45NkFBOc&list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv |
 |Deep Learning and Machine Learning Guide: Part I| https://dzone.com/articles/machine-learning-resources |
 
+
+## Data Science
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Summary of Deep Learning Architectures  | http://www.datasciencecentral.com/profiles/blogs/concise-visual-summary-of-deep-learning-architectures?utm_content=buffer61b02&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer | 
+|Live Data Satori|https://www.satori.com/overview|
+
+
 ## Natural Language Processing
 
 | Description   | URL           | 
