@@ -66,6 +66,7 @@
 | Torch | http://torch.ch/ |
 | MXNet Amazon | https://aws.amazon.com/mxnet/ |
 | AI Experiments Google | https://aiexperiments.withgoogle.com/autodraw |
+| Deep Learn JS by Google :D | https://pair-code.github.io/deeplearnjs/ |
 
 
 
