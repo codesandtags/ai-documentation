@@ -56,6 +56,8 @@
 | Brief article about AI | http://www.elmostrador.cl/vida-en-linea/2017/04/30/la-inteligencia-artificial-la-mente-en-la-maquina/ |
 | Some courses to learn AI online | https://www.xataka.com/robotica-e-ia/aprende-sobre-inteligencia-artificial-por-internet-cursos-publicaciones-y-las-recomendaciones-de-expertos | 
 | Aprendizaje Automatico Article | http://tecno.americaeconomia.com/articulos/aprendizaje-automatico-que-significa-para-la-innovacion-tecnologica |
+| Quora: Learn deep fundamentals in 2 months | https://www.quora.com/How-do-I-learn-deep-learning-in-2-months |
+| Quora: Most effective way to get started | https://www.quora.com/Whats-the-most-effective-way-to-get-started-with-deep-learning |
 
 ## Projects / Software
 
