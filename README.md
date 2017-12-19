@@ -58,6 +58,7 @@
 | Aprendizaje Automatico Article | http://tecno.americaeconomia.com/articulos/aprendizaje-automatico-que-significa-para-la-innovacion-tecnologica |
 | Quora: Learn deep fundamentals in 2 months | https://www.quora.com/How-do-I-learn-deep-learning-in-2-months |
 | Quora: Most effective way to get started | https://www.quora.com/Whats-the-most-effective-way-to-get-started-with-deep-learning |
+| About the evolution of world | https://waitbutwhy.com/2017/04/neuralink.html |
 
 ## Projects / Software
 
