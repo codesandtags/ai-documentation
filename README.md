@@ -17,7 +17,7 @@
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
-| Todo  | link | 
+| AI A - Z material | https://www.superdatascience.com/artificial-intelligence/ | 
 
 ## Machine Learning
 
