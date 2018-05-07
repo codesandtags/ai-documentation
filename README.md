@@ -1,4 +1,4 @@
-# Artificial Intelligence Documentation - 2017
+# Artificial Intelligence Documentation - 2018
 > A collection of AI documentation, art state and interesting links in my starter trip with Artificial Intelligence.
 
 ## Statistics 
@@ -28,6 +28,12 @@
 |Deep Learning and Machine Learning Guide: Part I| https://dzone.com/articles/machine-learning-resources |
 | Reinforcement Learning | https://medium.com/machine-learning-for-humans/reinforcement-learning-6eacf258b265 |
 
+## Deep Learning
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Train your app using visual interfaces | https://lobe.ai/ | 
+
 
 ## Data Science
 
@@ -35,7 +41,6 @@
 | ------------- |:-------------:| 
 | Summary of Deep Learning Architectures  | http://www.datasciencecentral.com/profiles/blogs/concise-visual-summary-of-deep-learning-architectures?utm_content=buffer61b02&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer | 
 |Live Data Satori|https://www.satori.com/overview|
-
 
 ## Natural Language Processing
 
